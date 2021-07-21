@@ -1,0 +1,27 @@
+.cabecera{
+    background-color: black;
+}
+.titulo{
+    text-align-last: justify;
+    
+}
+.chip{
+    background-image: linear-gradient(black 10%, transparent, black 90%), url(./img/chipcabecera.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.boton{
+        background-color: white;
+
+}
+.alex{
+    background-image: linear-gradient(#212529 10%,transparent,#212529 90%), url(./img/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.seemore{
+   
+}
+
